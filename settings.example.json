@@ -1,0 +1,15 @@
+{
+  "mask": {
+    "inside_delimiter": ":",
+    "between_delimiter": "/",
+    "auto_suggest_enabled": true,
+    "ignore_patterns": []
+  },
+  "printer": {
+    "model": "Elegir RT230",
+    "label_width_mm": 40,
+    "label_height_mm": 20,
+    "dpi": 203,
+    "font_size": 30
+  }
+}
